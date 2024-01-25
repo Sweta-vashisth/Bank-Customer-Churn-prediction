@@ -13,24 +13,16 @@ Inside the dataset, there are 10000 rows and 14 different columns.
 
 The target column here is Exited here.
 
-The details about all the columns are given in the following data dictionary -
+# Working Flow
 
-# Variable	# Definition
-RowNumber-	Unique Row Number
-CustomerId-	Unique Customer Id
-Surname-	Surname of a customer
-CreditScore	-Credit Score of each Customer
-Geography-	Geographical Location of Customers
-City_Category-	Category of the City (A,B,C)
-Gender	-Sex of Customers
-Age	-Age of Each Customer
-Tenure-	Number of years
-Balance-	Current Balance of Customers
-NumOfProducts-	Number of Products
-HasCrCard-	If a customer has a credit card or not
-IsActiveMember-	If a customer is active or not
-EstimatedSalary-	Estimated Salary of each Customer
-Exited-	Customer left the bank or Not (Target Variable)
+In order to create a model these are the following procedure -
+
+Split the dataset in 70% of Train set and 30% of Test Set
+Feature engineering
+Check the accuracy score for both Training and Test Set
+Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
+
+
 
 
 ![bank1](https://github.com/Sweta-vashisth/Bank-Customer-Churn-prediction/assets/65237868/800a0fda-62a4-4d0e-8803-165c752a2963)
