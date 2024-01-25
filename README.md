@@ -20,9 +20,10 @@ In order to create a model these are the following procedure -
 Split the dataset in 70% of Train set and 30% of Test Set  
 Feature engineering  
 Check the accuracy score for both Training and Test Set  
-Compare the accuracies for both Training and Test set, in order to check for the overfitting issues
+Compare the accuracies for both Training and Test set, in order to check for the overfitting issues  
+Make website using Streamlit Library
 
 
-
+# Output
 
 ![bank1](https://github.com/Sweta-vashisth/Bank-Customer-Churn-prediction/assets/65237868/800a0fda-62a4-4d0e-8803-165c752a2963)
