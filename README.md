@@ -5,5 +5,7 @@ Customer churn or customer attrition is a tendency of clients or customers to ab
 
 A reputed bank “ABC BANK” wants to predict the Churn rate. Create a model by using different machine learning approaches that can predict the best result.
 
+# Dataset Description
+
 
 ![bank1](https://github.com/Sweta-vashisth/Bank-Customer-Churn-prediction/assets/65237868/800a0fda-62a4-4d0e-8803-165c752a2963)
